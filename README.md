@@ -1,45 +1,45 @@
-<h2> 😚 사진좋아하는 개발자 <br>
-    <a href="https://www.instagram.com/strap_m_/">
-        <!-- 인스타 아이콘 -->
-    <img 
-        src="http://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/strap_m_/"
-        style="height : auto; "/>
-    </a>
-</h2>
+<p align="center"><a href="https://strapm.netlify.app/"><img width="80%" src="./assets/cat.png" /></a></p>
 
-<span> 📧 Contact : dydgh142@naver.com </span> <br>
-<span> 🔎 열심히 배우고 성실하게 공부해보자.. </span> <br>
-<span> 📸 디자인 하는건 재밌긴해 :) </span>
-<br><br>
+<br />
 
-<!-- A+ -->
-![dydgh142 GitHub stats](https://github-readme-stats.vercel.app/api?username=dydgh142&show_icons=true&theme=synthwave)
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-<!-- 언어 종류 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh142&layout=compact&theme=synthwave&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+**About me**
 
-<!-- 백준  -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgh142)](https://solved.ac/dydgh142)
-<br><br>
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-<!-- 하단바 -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<!-- velog -->
-<!-- 
-<a href="https://velog.io/@dding_ji">
-    <img 
-        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
--->
+#### Top Repositories
 
-<!-- ??? -->
-<!--<a href="https://legend-salamander-66c.notion.site/Kim-Myoung-Ji-12740c88e9c848708dd69b6c0adc1ef4">
-    <img 
-        src="http://img.shields.io/badge/-Notion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
