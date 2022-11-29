@@ -1,5 +1,5 @@
 <h2> 😚 사진좋아하는 개발자 <br>
-    <a href="https://https://www.instagram.com/strap_m_/">
+    <a href="https://www.instagram.com/strap_m_/">
         <!-- 인스타 아이콘 -->
     <img 
         src="http://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/strap_m_/"
