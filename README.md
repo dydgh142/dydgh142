@@ -1,4 +1,4 @@
-<p align="center"><a href="https://strapm.netlify.app/"><img width="100%" src="./assets/cat.png" /></a></p>
+<p align="center"><a href="https://strapm.netlify.app/"><img width="100%"src="./assets/cat.png" /></a></p>
 
 <br />
 
