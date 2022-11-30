@@ -11,7 +11,7 @@ I am a student who is trying to be a developer 🇰🇷
 - 📈 성실하게 공부해보자.. 성실하게 개발해보자 :)
 <!-- Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
-- ❤️ 많이 부족한 Github 저장소입니다. 열심히할게요 🥹🥹🥹
+- ☃︎ 많이 부족한 Github 저장소입니다. 열심히할게요 🥹🥹🥹
 
 <!-- - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) -->
 
@@ -27,19 +27,17 @@ I am a student who is trying to be a developer 🇰🇷
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/dydgh142/dydgh142">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dydgh142&repo=dydgh142&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/dydgh142/c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dydgh142&repo=Fitsum_Android&theme=buefy" />
 </a>
 
-<br />
-<br />
 
-<a href="https://twitter.com/anuraghazru">
+<!-- <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+</a> -->
