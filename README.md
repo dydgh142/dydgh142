@@ -4,6 +4,7 @@
 
 I am a student who is trying to be a developer 🇰🇷
 
+<br><br>
 **About me**
 
 - 💼 FrontEnd Engineer 
