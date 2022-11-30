@@ -3,6 +3,9 @@
 <br />
 
 I am a student who is trying to be a developer 🇰🇷
+<!-- 백준 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgh142)](https://solved.ac/dydgh142/)
+<br><br>
 
 <br><br>
 **About me**
@@ -26,7 +29,7 @@ I am a student who is trying to be a developer 🇰🇷
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dydgh142&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cho yoonho's github stats" /></a> | <a href="https://github.com/dydgh142/dydgh142"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh142&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<!-- 백준 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgh142)](https://solved.ac/dydgh142/)
 
 #### Top Repositories
