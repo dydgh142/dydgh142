@@ -10,12 +10,7 @@ I am a student who is trying to be a developer 🇰🇷
 
 - 💼 FrontEnd Engineer 
 
-- 📈 성실하게 공부해보자.. 성실하게 개발해보자 :)
-<!-- Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
-
-- ☃︎ 많이 부족한 Github 저장소입니다. 열심히할게요 🥹🥹🥹
-
-<!-- - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues) -->
+- ☃︎ 많이 부족한 Github 저장소입니다. 열심히해보겠습니다.
 
 <!-- <code>
   <img height="20" alt="javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
