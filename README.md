@@ -23,7 +23,7 @@ I am a student who is trying to be a developer 🇰🇷
 
 
 <a href="https://github.com/dydgh142/Today-I-learned">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dydgh142&repo=dydgh142&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dydgh142&repo=Today-I-learned&theme=buefy" />
 </a>
 <a href="https://github.com/dydgh142/Fitsum_Android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dydgh142&repo=Fitsum_Android&theme=buefy" />
