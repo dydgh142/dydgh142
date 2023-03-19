@@ -22,7 +22,7 @@ I am a student who is trying to be a developer 🇰🇷
 #### Top Repositories
 
 
-<a href="https://github.com/dydgh142/dydgh142">
+<a href="https://github.com/dydgh142/Today-I-learned">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dydgh142&repo=dydgh142&theme=buefy" />
 </a>
 <a href="https://github.com/dydgh142/Fitsum_Android">
