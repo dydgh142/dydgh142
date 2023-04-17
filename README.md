@@ -17,9 +17,9 @@ I am a student who is trying to be a developer 🇰🇷
 | ------------- | ------------- |
 
 <!-- 백준 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgh142)](https://solved.ac/dydgh142/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgh142)](https://solved.ac/dydgh142/) -->
 
-#### Top Repositories
+### Top Repositories
 
 
 <a href="https://github.com/dydgh142/Today-I-learned">
