@@ -1,5 +1,5 @@
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
-<p align="center"><a href="https://strapm.netlify.app/"><img width="100%"src="./assets/cat.png" /></a></p>
+<p align="center"><a href="https://app.netlify.com/sites/roaring-taffy-ac16cc/overview"><img width="100%"src="./assets/cat.png" /></a></p>
 
 <br />
 
