@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://yoonho-introduction.netlify.app/"><img width="100%"src="./assets/cat.png" /></a></p>
+<p align="center"><img width="100%"src="./assets/cat.png" /></p>
 
 <br />
 
